@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 648f987bf27884e42b9681dae04e737e
+timeCreated: 1499409685
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u8FD4\u56DE \u70B9\u51FB"
+    21300002: "\u8FD4\u56DE"
+    21300004: "\u9000\u51FA \u70B9\u51FB"
+    21300006: "\u9000\u51FA"
+    21300008: "\u91CD\u65B0\u5F00\u59CB \u70B9\u51FB"
+    21300010: "\u91CD\u65B0\u5F00\u59CB"
+    21300012: "\u97F3\u91CF\u5185\u6761(fill area)"
+    21300014: "\u97F3\u91CF\u6846(background)"
+    21300016: "\u97F3\u91CF\u94AE(handle)"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u8FD4\u56DE \u70B9\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 189
+        width: 171
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5233918, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 49}
+        - {x: -73.5, y: 49}
+        - {x: -89.5, y: 33}
+        - {x: -89.5, y: 9}
+        - {x: -85.5, y: -37}
+        - {x: -82.5, y: -49}
+        - {x: 71.5, y: -49}
+        - {x: 78.5, y: -38}
+        - {x: 81.5, y: 4}
+        - {x: 81.5, y: 35}
+    - name: "\u8FD4\u56DE"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 171
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5233918, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.50001, y: 49}
+        - {x: -73.49999, y: 49}
+        - {x: -89.49999, y: 33}
+        - {x: -89.49999, y: 9}
+        - {x: -85.49999, y: -37}
+        - {x: -82.49999, y: -49}
+        - {x: 71.50001, y: -49}
+        - {x: 78.50001, y: -38}
+        - {x: 81.50001, y: 4}
+        - {x: 81.50001, y: 35}
+    - name: "\u9000\u51FA \u70B9\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 218
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4885321, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: 41}
+        - {x: -106.5, y: 38}
+        - {x: -106.5, y: -40}
+        - {x: 111.5, y: -40}
+        - {x: 111.5, y: 40}
+        - {x: 108.5, y: 41}
+    - name: "\u9000\u51FA"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 218
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4885321, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: 41}
+        - {x: -106.5, y: 38}
+        - {x: -106.5, y: -40}
+        - {x: 111.5, y: -40}
+        - {x: 111.5, y: 40}
+        - {x: 108.5, y: 41}
+    - name: "\u91CD\u65B0\u5F00\u59CB \u70B9\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 289
+        width: 218
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4885321, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: 41}
+        - {x: -106.5, y: 38}
+        - {x: -106.5, y: -40}
+        - {x: 111.5, y: -40}
+        - {x: 111.5, y: 40}
+        - {x: 108.5, y: 41}
+    - name: "\u91CD\u65B0\u5F00\u59CB"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 281
+        width: 218
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4885321, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: 41}
+        - {x: -106.5, y: 38}
+        - {x: -106.5, y: -40}
+        - {x: 111.5, y: -40}
+        - {x: 111.5, y: 40}
+        - {x: 108.5, y: 41}
+    - name: "\u97F3\u91CF\u5185\u6761(fill area)"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 247
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u97F3\u91CF\u6846(background)"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 466
+        width: 364
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: 22}
+        - {x: -182, y: 20}
+        - {x: -182, y: -21}
+        - {x: -181, y: -22}
+        - {x: 182, y: -22}
+        - {x: 182, y: 22}
+      - - {x: -162, y: 6}
+        - {x: 162, y: 6}
+        - {x: 163, y: -4}
+        - {x: -162, y: -5}
+    - name: "\u97F3\u91CF\u94AE(handle)"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 455
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 27.5}
+        - {x: -7, y: 27.5}
+        - {x: -23, y: 10.5}
+        - {x: -23, y: -12.5}
+        - {x: -8, y: -27.5}
+        - {x: 9, y: -27.5}
+        - {x: 23, y: -12.5}
+        - {x: 23, y: 9.5}
+        - {x: 18, y: 18.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

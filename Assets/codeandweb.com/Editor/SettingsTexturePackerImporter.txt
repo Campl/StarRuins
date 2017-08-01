@@ -1,0 +1,39 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprite/ui1.tpsheet
+- Assets/Sprite/ui2.tpsheet
+- Assets/Sprite/ui3.tpsheet
+- Assets/Sprite/ui4.1.tpsheet
+- Assets/Sprite/ui4.tpsheet
+- Assets/Sprite/ui5.tpsheet
+- Assets/Sprite/ui6.tpsheet
+- Assets/Sprite/ui7.1.tpsheet
+- Assets/Sprite/ui7.tpsheet
+- Assets/Sprite/ui8.tpsheet
+- Assets/Sprite/ui9.tpsheet
+textureFileNames:
+- Assets/Sprite/ui1.png
+- Assets/Sprite/ui2.png
+- Assets/Sprite/ui3.png
+- Assets/Sprite/ui4.1.png
+- Assets/Sprite/ui4.png
+- Assets/Sprite/ui5.png
+- Assets/Sprite/ui6.png
+- Assets/Sprite/ui7.1.png
+- Assets/Sprite/ui7.png
+- Assets/Sprite/ui8.png
+- Assets/Sprite/ui9.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

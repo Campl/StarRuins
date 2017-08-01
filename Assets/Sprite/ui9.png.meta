@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 0ac9ac283bb8d3348b4b4432dffa76a4
+timeCreated: 1499849250
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u540D\u79F0\u80CC\u666F"
+    21300002: "\u6447\u6746 \u7403"
+    21300004: "\u6447\u6746\u5708"
+    21300006: "\u661F\u7834 \u51B2\u523A"
+    21300008: "\u661F\u7834 \u661F\u7A7A\u610F\u5FD7"
+    21300010: "\u661F\u7834 \u661F\u7A81"
+    21300012: "\u661F\u7834"
+    21300014: "\u661F\u7834A \u70B9\u51FB"
+    21300016: "\u661F\u7834A"
+    21300018: "\u661F\u7FBD \u661F\u7BAD\u98CE"
+    21300020: "\u661F\u7FBD \u7FFB\u6EDA"
+    21300022: "\u661F\u7FBD"
+    21300024: "\u661F\u90AA \u661F\u6708\u6253\u51FB"
+    21300026: "\u661F\u90AA \u661F\u672F\u8DC3\u8FC1"
+    21300028: "\u661F\u90AA \u661F\u7206"
+    21300030: "\u661F\u90AA"
+    21300032: "\u661F\u90AAA \u70B9\u51FB"
+    21300034: "\u661F\u90AAA"
+    21300036: "\u661F\u9635 \u661F\u706B"
+    21300038: "\u661F\u9635 \u661F\u77AC"
+    21300040: "\u661F\u9635 \u661F\u7A7A\u5760\u843D"
+    21300042: "\u661F\u9635"
+    21300044: "\u661F\u9635A \u70B9\u51FB"
+    21300046: "\u661F\u9635A"
+    21300048: "\u7B49\u7EA7\u80CC\u666F"
+    21300050: "\u7ECF\u9A8C\u6761"
+    21300052: "\u7ECF\u9A8C\u6846"
+    21300054: "\u84DD\u6761"
+    21300056: "\u84DD\u91CF\u6846"
+    21300058: "\u8840\u6761"
+    21300060: "\u8840\u91CF\u6846"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u540D\u79F0\u80CC\u666F"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 722
+        width: 165
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 22.5}
+        - {x: -82.5, y: -22.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 82.5, y: -19.5}
+        - {x: 82.5, y: 22.5}
+    - name: "\u6447\u6746 \u7403"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 695
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 42.5}
+        - {x: -42.5, y: 41.5}
+        - {x: -42.5, y: -32.5}
+        - {x: -40.5, y: -42.5}
+        - {x: 31.5, y: -42.5}
+        - {x: 42.5, y: -34.5}
+        - {x: 42.5, y: 42.5}
+    - name: "\u6447\u6746\u5708"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 769
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 94.5}
+        - {x: 53.5, y: 95.5}
+        - {x: -51.5, y: 95.5}
+        - {x: -61.5, y: 88.5}
+        - {x: -86.5, y: 63.5}
+        - {x: -95.5, y: 43.5}
+        - {x: -95.5, y: -52.5}
+        - {x: -63.5, y: -89.5}
+        - {x: -55.5, y: -95.5}
+        - {x: 59.5, y: -95.5}
+        - {x: 88.5, y: -62.5}
+        - {x: 95.5, y: -47.5}
+        - {x: 95.5, y: 52.5}
+    - name: "\u661F\u7834 \u51B2\u523A"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 707
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 55.5}
+        - {x: -55.5, y: 45.5}
+        - {x: -55.5, y: -39.5}
+        - {x: -48.5, y: -55.5}
+        - {x: 55.5, y: -55.5}
+        - {x: 55.5, y: 52.5}
+        - {x: 34.5, y: 55.5}
+    - name: "\u661F\u7834 \u661F\u7A7A\u610F\u5FD7"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 596
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 54.5}
+        - {x: -55, y: 37.5}
+        - {x: -55, y: -41.5}
+        - {x: -41, y: -54.5}
+        - {x: 34, y: -54.5}
+        - {x: 54, y: -49.5}
+        - {x: 55, y: -47.5}
+        - {x: 55, y: 40.5}
+        - {x: 53, y: 54.5}
+    - name: "\u661F\u7834 \u661F\u7A81"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 405
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 54}
+        - {x: -54, y: 43}
+        - {x: -54, y: -54}
+        - {x: 54, y: -54}
+        - {x: 54, y: 47}
+        - {x: 43, y: 54}
+    - name: "\u661F\u7834"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 581
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 69.5}
+        - {x: -44, y: 69.5}
+        - {x: -69, y: 46.5}
+        - {x: -69, y: -40.5}
+        - {x: -56, y: -54.5}
+        - {x: -32, y: -69.5}
+        - {x: 46, y: -69.5}
+        - {x: 69, y: -62.5}
+        - {x: 69, y: 53.5}
+        - {x: 54, y: 65.5}
+    - name: "\u661F\u7834A \u70B9\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 796
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 86}
+        - {x: 51, y: 92}
+        - {x: -49, y: 92}
+        - {x: -65, y: 91}
+        - {x: -92, y: 46}
+        - {x: -92, y: -52}
+        - {x: -89, y: -63}
+        - {x: -49, y: -92}
+        - {x: 50, y: -92}
+        - {x: 92, y: -68}
+        - {x: 92, y: 52}
+        - {x: 91, y: 54}
+    - name: "\u661F\u7834A"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 494
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 84.5}
+        - {x: -82.5, y: 57.5}
+        - {x: -84.5, y: 45.5}
+        - {x: -84.5, y: -47.5}
+        - {x: -72.5, y: -84.5}
+        - {x: 69.5, y: -84.5}
+        - {x: 84.5, y: -51.5}
+        - {x: 84.5, y: 54.5}
+        - {x: 57.5, y: 84.5}
+    - name: "\u661F\u7FBD \u661F\u7BAD\u98CE"
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 543
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 54.5}
+        - {x: -55, y: 48.5}
+        - {x: -55, y: -51.5}
+        - {x: -54, y: -54.5}
+        - {x: 51, y: -54.5}
+        - {x: 55, y: -41.5}
+        - {x: 55, y: 40.5}
+        - {x: 35, y: 54.5}
+    - name: "\u661F\u7FBD \u7FFB\u6EDA"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 515
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 54}
+        - {x: -54.5, y: 34}
+        - {x: -54.5, y: -48}
+        - {x: -38.5, y: -54}
+        - {x: 54.5, y: -54}
+        - {x: 54.5, y: 43}
+        - {x: 49.5, y: 54}
+    - name: "\u661F\u7FBD"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 641
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 69.5}
+        - {x: -44, y: 69.5}
+        - {x: -69, y: 46.5}
+        - {x: -69, y: -40.5}
+        - {x: -56, y: -54.5}
+        - {x: -32, y: -69.5}
+        - {x: 46, y: -69.5}
+        - {x: 69, y: -62.5}
+        - {x: 69, y: 53.5}
+        - {x: 54, y: 65.5}
+    - name: "\u661F\u90AA \u661F\u6708\u6253\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 654
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 55}
+        - {x: -55, y: 41}
+        - {x: -55, y: -37}
+        - {x: -32, y: -55}
+        - {x: 34, y: -55}
+        - {x: 55, y: -34}
+        - {x: 55, y: 50}
+        - {x: 38, y: 55}
+    - name: "\u661F\u90AA \u661F\u672F\u8DC3\u8FC1"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 432
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 54.5}
+        - {x: -54.5, y: -54.5}
+        - {x: 46.5, y: -54.5}
+        - {x: 54.5, y: -46.5}
+        - {x: 54.5, y: 44.5}
+        - {x: 51.5, y: 54.5}
+    - name: "\u661F\u90AA \u661F\u7206"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 514
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 54.5}
+        - {x: -54.5, y: -54.5}
+        - {x: 46.5, y: -54.5}
+        - {x: 54.5, y: -46.5}
+        - {x: 54.5, y: 44.5}
+        - {x: 51.5, y: 54.5}
+    - name: "\u661F\u90AA"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 500
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 69.5}
+        - {x: -44, y: 69.5}
+        - {x: -69, y: 46.5}
+        - {x: -69, y: -40.5}
+        - {x: -56, y: -54.5}
+        - {x: -32, y: -69.5}
+        - {x: 46, y: -69.5}
+        - {x: 69, y: -62.5}
+        - {x: 69, y: 53.5}
+        - {x: 54, y: 65.5}
+    - name: "\u661F\u90AAA \u70B9\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 782
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 64}
+        - {x: 49, y: 91}
+        - {x: -44, y: 91}
+        - {x: -61, y: 85}
+        - {x: -91, y: 48}
+        - {x: -91, y: -51}
+        - {x: -66, y: -91}
+        - {x: 51, y: -91}
+        - {x: 86, y: -61}
+        - {x: 91, y: -53}
+        - {x: 91, y: 50}
+    - name: "\u661F\u90AAA"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 625
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 84.5}
+        - {x: -82.5, y: 57.5}
+        - {x: -84.5, y: 45.5}
+        - {x: -84.5, y: -47.5}
+        - {x: -72.5, y: -84.5}
+        - {x: 69.5, y: -84.5}
+        - {x: 84.5, y: -51.5}
+        - {x: 84.5, y: 54.5}
+        - {x: 57.5, y: 84.5}
+    - name: "\u661F\u9635 \u661F\u706B"
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 881
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 56.5}
+        - {x: -56.5, y: 49.5}
+        - {x: -56.5, y: -34.5}
+        - {x: -50.5, y: -56.5}
+        - {x: 35.5, y: -56.5}
+        - {x: 56.5, y: -35.5}
+        - {x: 56.5, y: 34.5}
+        - {x: 37.5, y: 56.5}
+    - name: "\u661F\u9635 \u661F\u77AC"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 766
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 56.5}
+        - {x: -56, y: 37.5}
+        - {x: -56, y: -30.5}
+        - {x: -40, y: -56.5}
+        - {x: 39, y: -56.5}
+        - {x: 56, y: -36.5}
+        - {x: 56, y: 38.5}
+        - {x: 35, y: 56.5}
+    - name: "\u661F\u9635 \u661F\u7A7A\u5760\u843D"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 820
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 56.5}
+        - {x: -56.5, y: 51.5}
+        - {x: -56.5, y: -46.5}
+        - {x: -34.5, y: -56.5}
+        - {x: 51.5, y: -56.5}
+        - {x: 56.5, y: -38.5}
+        - {x: 56.5, y: 48.5}
+        - {x: 47.5, y: 56.5}
+    - name: "\u661F\u9635"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 455
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 69.5}
+        - {x: -44, y: 69.5}
+        - {x: -69, y: 46.5}
+        - {x: -69, y: -40.5}
+        - {x: -56, y: -54.5}
+        - {x: -32, y: -69.5}
+        - {x: 46, y: -69.5}
+        - {x: 69, y: -62.5}
+        - {x: 69, y: 53.5}
+        - {x: 54, y: 65.5}
+    - name: "\u661F\u9635A \u70B9\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 839
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: 85.5}
+        - {x: 50.5, y: 91.5}
+        - {x: -48.5, y: 91.5}
+        - {x: -64.5, y: 90.5}
+        - {x: -91.5, y: 49.5}
+        - {x: -91.5, y: -64.5}
+        - {x: -48.5, y: -91.5}
+        - {x: 50.5, y: -91.5}
+        - {x: 90.5, y: -63.5}
+        - {x: 91.5, y: -54.5}
+        - {x: 91.5, y: 54.5}
+    - name: "\u661F\u9635A"
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 665
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 86}
+        - {x: -84, y: 69}
+        - {x: -86, y: 50}
+        - {x: -86, y: -52}
+        - {x: -52, y: -86}
+        - {x: 62, y: -86}
+        - {x: 86, y: -55}
+        - {x: 86, y: 57}
+        - {x: 58, y: 86}
+    - name: "\u7B49\u7EA7\u80CC\u666F"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 935
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 24.5}
+        - {x: -24.5, y: 22.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 24.5, y: -17.5}
+        - {x: 24.5, y: 20.5}
+        - {x: 20.5, y: 24.5}
+    - name: "\u7ECF\u9A8C\u6761"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 986
+        width: 297
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u7ECF\u9A8C\u6846"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1010
+        width: 425
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u84DD\u6761"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 966
+        width: 220
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u84DD\u91CF\u6846"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 996
+        width: 408
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u8840\u6761"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 962
+        width: 220
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u8840\u91CF\u6846"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 982
+        width: 408
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

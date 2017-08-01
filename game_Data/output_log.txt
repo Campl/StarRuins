@@ -1,0 +1,99 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 710M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   21.21.13.7586
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\unity3d project\Demo\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity3d project\Demo\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity3d project\Demo\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity3d project\Demo\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\unity3d project\Demo\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\unity3d project\Demo\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\unity3d project\Demo\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\unity3d project\Demo\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\unity3d project\Demo\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\unity3d project\Demo\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.413 seconds
+Platform assembly: E:\unity3d project\Demo\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\unity3d project\Demo\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.317213 ms
+Font size and style overrides are only supported for dynamic fonts. Font '方正像素16' is not dynamic.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.856234 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.351801 ms (FindLiveObjects: 0.031359 ms CreateObjectMapping: 0.027368 ms MarkObjects: 0.238905 ms  DeleteObjects: 0.053026 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.768603 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 1.811463 ms (FindLiveObjects: 0.038202 ms CreateObjectMapping: 0.027938 ms MarkObjects: 0.347810 ms  DeleteObjects: 1.396371 ms)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.545662 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 398.
+Total: 0.609522 ms (FindLiveObjects: 0.034781 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.374608 ms  DeleteObjects: 0.167062 ms)
+
+33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.028807 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 1.857647 ms (FindLiveObjects: 0.126580 ms CreateObjectMapping: 0.076974 ms MarkObjects: 1.623303 ms  DeleteObjects: 0.030219 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.624443 ms
+
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 580.
+Total: 0.843296 ms (FindLiveObjects: 0.052456 ms CreateObjectMapping: 0.051316 ms MarkObjects: 0.560487 ms  DeleteObjects: 0.177326 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.629198 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1964.
+Total: 1.396941 ms (FindLiveObjects: 0.132281 ms CreateObjectMapping: 0.143115 ms MarkObjects: 1.035447 ms  DeleteObjects: 0.084386 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.690681 ms
+
+Unloading 1051 unused Assets to reduce memory usage. Loaded Objects now: 1757.
+Total: 4.574557 ms (FindLiveObjects: 0.190440 ms CreateObjectMapping: 0.181887 ms MarkObjects: 1.904972 ms  DeleteObjects: 2.296686 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.263045 ms
+
+Unloading 104 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 0.847288 ms (FindLiveObjects: 0.047324 ms CreateObjectMapping: 0.057018 ms MarkObjects: 0.531408 ms  DeleteObjects: 0.210396 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.602680 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 421.
+Total: 0.624917 ms (FindLiveObjects: 0.039912 ms CreateObjectMapping: 0.033070 ms MarkObjects: 0.482942 ms  DeleteObjects: 0.067851 ms)
+
+Font size and style overrides are only supported for dynamic fonts. Font '方正像素16' is not dynamic.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 140c -> priority: 1 

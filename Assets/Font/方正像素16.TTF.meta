@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c4e8bd52954786e4cb07f7dbb5d866eb
+timeCreated: 1499243469
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZXS16
+  fontNames:
+  - FZXS16
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

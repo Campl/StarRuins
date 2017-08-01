@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 427f084fb15171d41b0d3a3eb5f37128
+timeCreated: 1499693003
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5C5E\u6027 \u9AD8\u4EAE"
+    21300002: "\u5C5E\u6027"
+    21300004: "\u6280\u80FD \u9AD8\u4EAE"
+    21300006: "\u6280\u80FD"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u5C5E\u6027 \u9AD8\u4EAE"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 29}
+        - {x: -72.5, y: 23}
+        - {x: -72.5, y: -29}
+        - {x: 72.5, y: -29}
+        - {x: 72.5, y: 21}
+        - {x: 64.5, y: 29}
+    - name: "\u5C5E\u6027"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 29}
+        - {x: -72.5, y: 23}
+        - {x: -72.5, y: -29}
+        - {x: 72.5, y: -29}
+        - {x: 72.5, y: 21}
+        - {x: 64.5, y: 29}
+    - name: "\u6280\u80FD \u9AD8\u4EAE"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 29}
+        - {x: -72.5, y: 23}
+        - {x: -72.5, y: -29}
+        - {x: 72.5, y: -29}
+        - {x: 72.5, y: 21}
+        - {x: 64.5, y: 29}
+    - name: "\u6280\u80FD"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 29}
+        - {x: -72.5, y: 23}
+        - {x: -72.5, y: -29}
+        - {x: 72.5, y: -29}
+        - {x: 72.5, y: 21}
+        - {x: 64.5, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
